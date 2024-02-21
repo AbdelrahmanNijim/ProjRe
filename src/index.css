@@ -1,0 +1,16 @@
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 10px 10px;
+  background-color: #000000;
+  color: #ffffff;
+}
+.but{
+  display: flex;
+  margin-top: 200px;
+  align-items: center;
+ justify-content: center;
+}
+
+ 
